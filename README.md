@@ -91,6 +91,6 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 - Kesia Rodrigues.
 
 ## Licença
-The MIT License (MIT) (https://img.shields.io/github/license/jvJUCA/Reportai-Facens?style=flat-square)
+The MIT License (MIT) (![GitHub](https://img.shields.io/github/license/giovanninog/Reportai-Facens?style=flat-square)
 
 ## Copyright ©️ 2023 - REPORTAÍ
