@@ -5,7 +5,7 @@
 ## Tópicos
 🔹 [Descrição do projeto](#descrição-do-projeto)
 
-🔹 [Funcionalidades](#Funcionalidades-⚙)
+🔹 [Funcionalidades](#funcionalidades-)
 
 🔹 [Distribuição](#distribuição)
 
@@ -17,15 +17,15 @@
 
 🔹 [Banco de Dados](#banco-de-dados)
 
-🔹 Linguagens, dependências e libs utilizadas
+🔹 [Linguagens, dependências e libs utilizadas](#linguagens,-dependências-e-libs-utilizadas)
 
-🔹 Novas Recursos
+🔹 [Novas Recursos](#novos-recursos)
 
 🔹 [Resolvendo problemas](#resolvendo-problemas)
 
 🔹 [Recursos inseridos](#recursos-de-inseridos-)
 
-🔹 Desenvolvedores/Contribuintes
+🔹 [Desenvolvedores/Contribuintes](#desenvolvedores/contribuintes)
 
 🔹 Informações Extras
 
@@ -54,7 +54,7 @@ SDK;
 Aparelho utilizado para testes.
 - Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
 
-## Como rodar a aplicação 
+## Como rodar a aplicação
 Explicação de como se deve utilizar o projeto.
 
 ## Testes realizados
