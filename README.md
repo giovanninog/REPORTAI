@@ -25,7 +25,7 @@
 
 🔹 [Recursos inseridos](#recursos-de-inseridos-)
 
-🔹 [Desenvolvedores/Contribuintes](#desenvolvedores/contribuintes:)
+🔹 [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes)
 
 🔹 Informações Extras
 
