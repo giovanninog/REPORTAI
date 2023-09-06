@@ -49,7 +49,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ## Distribuição
 Link para teste da versão disponibilizada.
 
-## Pré-requisitos
+## Pré requisitos
 Versão do Android; 
 SDK; 
 Aparelho utilizado para testes.
