@@ -3,10 +3,8 @@
 ## Status do Projeto: ⚠️ Espera
 
 ## Tópicos
-🔹 Descrição do projeto
-## Tópico 1 {#topico1}
+🔹 [Descrição do projeto] {#topico1}
 
-Este é o primeiro tópico do README.
 🔹 Funcionalidades
 
 🔹 Distribuição
