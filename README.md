@@ -3,7 +3,7 @@
 ## Status do Projeto: ⚠️ Espera
 
 ## Tópicos
-🔹 ![]()[Descrição do projeto](#topico1)
+🔹 [Descrição do projeto](#descrição-do-projeto)
 
 🔹 Funcionalidades
 
