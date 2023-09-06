@@ -9,9 +9,9 @@
 
 🔹 [Distribuição](#distribuição)
 
-🔹 [Pré requisitos](#pré-requisitos-)
+🔹 [Pré requisitos](#prérequisito)
 
-🔹 [Como rodar a aplicação](#como-rodar-a-aplicação-)
+🔹 [Como rodar a aplicação](#como-rodar-a-aplicação)
 
 🔹 [Testes realizados](#testes-realizados)
 
