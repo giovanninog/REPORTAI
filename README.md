@@ -5,17 +5,17 @@
 ## Tópicos
 🔹 [Descrição do projeto](#descrição-do-projeto)
 
-🔹 Funcionalidades
+🔹 [Funcionalidades](#funcionalidades)
 
-🔹 Distribuição
+🔹 [Distribuição](#distribuição)
 
-🔹 Pré-requisitos
+🔹 [Pré-requisitos](#pre-requisitos)
 
-🔹 Como rodar a aplicação
+🔹 [Como rodar a aplicação](#como-rodar-a-aplicacao)
 
 🔹 [Testes realizados](#testes-realizados)
 
-🔹 Banco de Dados
+🔹 [Banco de Dados](#banco-de-dados)
 
 🔹 Linguagens, dependências e libs utilizadas
 
