@@ -99,63 +99,9 @@ The MIT License (MIT)
 
 ## Índice
 
-- [Descrição do Projeto](#descricao-do-projeto)
-- [Funcionalidades](#funcionalidades)
-- [Distribuição](#distribuicao)
-- [Pré-requisitos](#pre-requisitos)
-- [Como rodar a aplicação](#como-rodar-a-aplicacao)
+
+
 - [Testes realizados](#testes-realizados)
-- [Banco de Dados](#banco-de-dados)
-- [Linguagens, dependências e libs utilizadas](#linguagens-dependencias-e-libs-utilizadas)
-- [Resolvendo Problemas](#resolvendo-problemas)
-- [Recursos inseridos](#recursos-inseridos)
-- [Desenvolvedores/Contribuintes](#desenvolvedores-contribuintes)
-- [Licença](#licenca)
 
-## Descrição do Projeto {#descricao-do-projeto}
 
-Este é o conteúdo da Descrição do Projeto.
 
-## Funcionalidades {#funcionalidades}
-
-Este é o conteúdo das Funcionalidades.
-
-## Distribuição {#distribuicao}
-
-Este é o conteúdo da Distribuição.
-
-## Pré-requisitos {#pre-requisitos}
-
-Este é o conteúdo dos Pré-requisitos.
-
-## Como rodar a aplicação {#como-rodar-a-aplicacao}
-
-Este é o conteúdo de Como rodar a aplicação.
-
-## Testes realizados {#testes-realizados}
-
-Este é o conteúdo dos Testes realizados.
-
-## Banco de Dados {#banco-de-dados}
-
-Este é o conteúdo do Banco de Dados.
-
-## Linguagens, dependências e libs utilizadas {#linguagens-dependencias-e-libs-utilizadas}
-
-Este é o conteúdo das Linguagens, dependências e libs utilizadas.
-
-## Resolvendo Problemas {#resolvendo-problemas}
-
-Este é o conteúdo de Resolvendo Problemas.
-
-## Recursos inseridos {#recursos-inseridos}
-
-Este é o conteúdo dos Recursos inseridos.
-
-## Desenvolvedores/Contribuintes {#desenvolvedores-contribuintes}
-
-Este é o conteúdo dos Desenvolvedores/Contribuintes.
-
-## Licença {#licenca}
-
-Este é o conteúdo da Licença.
