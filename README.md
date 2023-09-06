@@ -15,7 +15,7 @@
 
 🔹 [Testes realizados](#testes-realizados)
 
-🔹 [Banco de Dados](#banco-de-dados)
+🔹 [Banco de Dados](#banco-de-dados-)
 
 🔹 [Linguagens, dependências e libs utilizadas](#linguagens,-dependências-e-libs-utilizadas)
 
@@ -25,7 +25,7 @@
 
 🔹 [Recursos inseridos](#recursos-de-inseridos-)
 
-🔹 [Desenvolvedores/Contribuintes](#Desenvolvedores/Contribuintes:)
+🔹 [Desenvolvedores/Contribuintes](#desenvolvedores/contribuintes:)
 
 🔹 Informações Extras
 
