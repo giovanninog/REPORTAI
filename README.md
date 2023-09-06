@@ -5,7 +5,7 @@
 ## Tópicos
 🔹 [Descrição do projeto](#descrição-do-projeto)
 
-🔹 [Funcionalidades](#funcionalidades-)
+🔹 [Funcionalidades](#funcionalidades)
 
 🔹 [Distribuição](#distribuição)
 
@@ -37,6 +37,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 	Um site que busca aproximar os alunos aos executivos de uma instituição acadêmica, por meio de feedbacks que possibilitam sugerir alterações ou correções dentro da própria instituição.
 
 ## Funcionalidades ⚙️
+
 ✔️ Funcionalidade 1
 
 ✔️ Funcionalidade 2
@@ -48,7 +49,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ## Distribuição
 Link para teste da versão disponibilizada.
 
-## Pré-requisitos ⚠️    
+## Pré-requisitos
 Versão do Android; 
 SDK; 
 Aparelho utilizado para testes.
