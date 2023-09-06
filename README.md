@@ -21,9 +21,9 @@
 
 🔹 Novas Recursos
 
-🔹 [Resolvendo problemas](resolvendo-problemas)
+🔹 [Resolvendo problemas](#resolvendo-problemas)
 
-🔹 [Recursos inseridos](Recursos-de-inseridos-🧰)
+🔹 [Recursos inseridos](#recursos-de-inseridos-)
 
 🔹 Desenvolvedores/Contribuintes
 
