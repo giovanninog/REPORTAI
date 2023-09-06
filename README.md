@@ -9,9 +9,9 @@
 
 🔹 [Distribuição](#distribuição)
 
-🔹 [Pré requisitos](#pré-requisitos)
+🔹 [Pré requisitos](#pré-requisitos-)
 
-🔹 [Como rodar a aplicação](#como-rodar-a-aplicação)
+🔹 [Como rodar a aplicação](#como-rodar-a-aplicação-)
 
 🔹 [Testes realizados](#testes-realizados)
 
@@ -25,7 +25,7 @@
 
 🔹 [Recursos inseridos](#recursos-de-inseridos-)
 
-🔹 [Desenvolvedores/Contribuintes](#desenvolvedores/contribuintes)
+🔹 [Desenvolvedores/Contribuintes](#Desenvolvedores/Contribuintes:)
 
 🔹 Informações Extras
 
