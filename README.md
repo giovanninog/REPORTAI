@@ -5,7 +5,7 @@
 ## Tópicos
 🔹 [Descrição do projeto](#descrição-do-projeto)
 
-🔹 [Funcionalidades](#funcionalidades)
+🔹 [Funcionalidades](#funcionalidades-⚙️)
 
 🔹 [Distribuição](#distribuição)
 
