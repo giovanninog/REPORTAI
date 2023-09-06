@@ -83,6 +83,7 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 📝 Tarefa 3
 
 ## Desenvolvedores/Contribuintes:
+- Daniel Ohata
 - Giovanni Nogueira;
 - João Vitor Amaral Franzoni;
 - João Souza;
