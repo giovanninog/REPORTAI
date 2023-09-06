@@ -9,7 +9,7 @@
 
 🔹 [Distribuição](#distribuição)
 
-🔹 [Pré requisitos](#pré-requisito)
+🔹 [Pré requisitos](#prérequisito)
 
 🔹 [Como rodar a aplicação](#como-rodar-a-aplicação)
 
@@ -49,7 +49,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ## Distribuição
 Link para teste da versão disponibilizada.
 
-## Pré requisitos
+## Pré-requisitos ⚠️    
 Versão do Android; 
 SDK; 
 Aparelho utilizado para testes.
@@ -87,7 +87,7 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 - Daniel Ohata
 - Giovanni Nogueira;
 - João Vitor Amaral Franzoni;
-- João Souza;
+- João de Almeida Sobrinho Souza;
 - Matheus Paes Almeida;
 - Kesia Rodrigues.
 
@@ -95,6 +95,3 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 The MIT License (MIT)
 
 ## Copyright ©️ 2023 - REPORTAÍ
-
-
-
