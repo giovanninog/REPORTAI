@@ -29,7 +29,7 @@
 
 🔹 Informações Extras
 
-
+- [x] Teste
 ...
 
 Insira os tópicos do README em links para facilitar a navegação do leitor
