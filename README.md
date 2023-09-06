@@ -5,7 +5,7 @@
 ## Tópicos
 🔹 ![]()[Descrição do projeto](#topico1)
 
-🔹 ![]()[Funcionalidades](#topico2)
+🔹 Funcionalidades
 
 🔹 Distribuição
 
@@ -36,7 +36,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ## ![]()[Descrição do projeto](#topico1)
 	Um site que busca aproximar os alunos aos executivos de uma instituição acadêmica, por meio de feedbacks que possibilitam sugerir alterações ou correções dentro da própria instituição.
 
-## ![]()[Funcionalidades](#topico2)⚙️
+## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
 
 ✔️ Funcionalidade 2
@@ -93,3 +93,23 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 The MIT License (MIT)
 
 ## Copyright ©️ 2023 - REPORTAÍ
+
+# Título do Projeto
+
+## Índice
+
+- [Seção 1](#secao1)
+- [Seção 2](#secao2)
+- [Seção 3](#secao3)
+
+## Seção 1 {#secao1}
+
+Este é o conteúdo da Seção 1.
+
+## Seção 2 {#secao2}
+
+Este é o conteúdo da Seção 2.
+
+## Seção 3 {#secao3}
+
+Este é o conteúdo da Seção 3.
