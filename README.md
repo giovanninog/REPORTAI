@@ -27,7 +27,7 @@
 
 🔹 [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes)
 
-🔹 [Informações Extras](#licenças)
+🔹 [Informações Extras](#licença)
 
 ...
 
