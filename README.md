@@ -4,7 +4,9 @@
 
 ## Tópicos
 🔹 Descrição do projeto
+## Tópico 1 {#topico1}
 
+Este é o primeiro tópico do README.
 🔹 Funcionalidades
 
 🔹 Distribuição
@@ -29,7 +31,6 @@
 
 🔹 Informações Extras
 
-- [x] Teste
 ...
 
 Insira os tópicos do README em links para facilitar a navegação do leitor
