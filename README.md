@@ -13,7 +13,7 @@
 
 🔹 Como rodar a aplicação
 
-🔹 Testes realizados
+🔹 [Testes realizados](#testes-realizados)
 
 🔹 Banco de Dados
 
@@ -93,15 +93,6 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 The MIT License (MIT)
 
 ## Copyright ©️ 2023 - REPORTAÍ
-
-
-# Título do Projeto
-
-## Índice
-
-
-
-- [Testes realizados](#testes-realizados)
 
 
 
