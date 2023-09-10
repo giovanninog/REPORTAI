@@ -1,37 +1,31 @@
-# REPORTAÍ
+# Reportai-Facens | C&C Group | AS030TSN4
 ## Versão: 1.0 
 ## Status do Projeto: ⚠️ Espera
 
 ## Tópicos
 🔹 [Descrição do projeto](#descrição-do-projeto)
 
-🔹 [Funcionalidades](#funcionalidades)
+🔹 [Funcionalidades](#funcionalidades-%EF%B8%8F)
 
 🔹 [Distribuição](#distribuição)
 
-🔹 [Pré requisitos](#prérequisito)
+🔹 [Pré requisitos](#pré-requisitos-%EF%B8%8F)
 
 🔹 [Como rodar a aplicação](#como-rodar-a-aplicação)
 
 🔹 [Testes realizados](#testes-realizados)
 
-🔹 [Banco de Dados](#banco-de-dados-)
+🔹 [Banco de Dados](#banco-de-dados-%EF%B8%8F)
 
-🔹 [Linguagens, dependências e libs utilizadas](#linguagens,-dependências-e-libs-utilizadas)
+🔹 [Linguagens, dependências e libs utilizadas](#linguagens-dependencias-e-libs-utilizadas-)
 
-🔹 [Novas Recursos](#novos-recursos)
-
-🔹 [Resolvendo problemas](#resolvendo-problemas)
+🔹 [Resolvendo problemas](#recursos-inseridos-)
 
 🔹 [Recursos inseridos](#recursos-de-inseridos-)
 
 🔹 [Desenvolvedores/Contribuintes](#desenvolvedorescontribuintes)
 
 🔹 [Informações Extras](#licença)
-
-...
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
 	Um site que busca aproximar os alunos aos executivos de uma instituição acadêmica, por meio de feedbacks que possibilitam sugerir alterações ou correções dentro da própria instituição.
@@ -75,7 +69,7 @@ Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Gith
 ## Resolvendo Problemas 
 Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
-## Recursos de inseridos 🧰
+## Recursos inseridos 🧰
 Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação, insira fotos da tela do app.
 
 📝 Tarefa 1
