@@ -94,6 +94,4 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 ## Licença
 The MIT License (MIT)
 
-![GitHub](https://img.shields.io/github/license/jvJUCA/Reportai-Facens?style=for-the-badge&link=https%3A%2F%2Fopensource.org%2Flicense%2Fmit%2F)
-
 ## Copyright ©️ 2023 - REPORTAÍ
