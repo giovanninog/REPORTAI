@@ -65,6 +65,7 @@ Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv
 ## Linguagens, dependencias e libs utilizadas 📚
 ![VUE](https://img.shields.io/badge/VUE-3DDC84?style=for-the-badge&logo=vue&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-ff4500?style=for-the-badge&logo=html5&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-f7ef00?style=for-the-badge&logo=JavaScript&logoColor=black)
 
 XML
 ...
