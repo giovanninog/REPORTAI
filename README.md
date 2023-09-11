@@ -50,6 +50,8 @@ Aparelho utilizado para testes.
 - Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
 ![WINDOWS](https://img.shields.io/badge/WINDOWS-03a9fc?style=for-the-badge&logo=windows&logoColor=white)
 ![LINUX](https://img.shields.io/badge/LINUX-050505?style=for-the-badge&logo=linux&logoColor=white)
+![GOOGLE](https://img.shields.io/badge/Google%20Chrome-ed1607?style=for-the-badge&logo=Google&logoColor=black)
+![EDGE](https://img.shields.io/badge/Edge%20Browser-079ded?style=for-the-badge&logo=Microsoft&logoColor=white)
 
 ## Como rodar a aplicação
 Explicação de como se deve utilizar o projeto.
