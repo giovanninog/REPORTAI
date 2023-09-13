@@ -41,7 +41,9 @@
 ✔️ Funcionalidade 4
 
 ## Distribuição
-Link para teste da versão disponibilizada: https://reportai-facens.vercel.app/
+Link para teste da versão disponibilizada: 
+
+https://reportai-facens.vercel.app/
 
 ## Pré-requisitos ⚠️    
 Versão do Android; 
